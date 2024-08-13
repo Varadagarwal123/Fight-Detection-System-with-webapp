@@ -3,3 +3,4 @@ numpy
 opencv-python-headless
 tensorflow==2.8.0
 keras
+protobuf<4
