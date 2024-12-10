@@ -1,6 +1,6 @@
 streamlit
 numpy
 opencv-python-headless
-tensorflow==2.8.0
+tensorflow==2.18.0
 keras
 protobuf==3.20.3
